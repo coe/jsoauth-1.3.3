@@ -1,0 +1,9 @@
+{
+    "description": "OAuth",
+    "directories": {
+        "lib": "."
+    },
+    "main": "jsOAuth-1.3.3",
+    "name": "jsOAuth-1.3.3",
+    "version": "1.0.0"
+}
